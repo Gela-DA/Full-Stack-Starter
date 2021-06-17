@@ -17,5 +17,6 @@
 7. Methodology 
   - Agile and Scrum
 8. Design Pattern 
-  -MVC 
+  - MVC 
+  - Singlton
 
